@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "软件安装包"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "配置和词库"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "热门配置"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "个人配置"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "增强词库"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "词库构建转换"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "配置管理扩展工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "主题"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "主题（配色模板）"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "主题编辑工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "常规输入方案"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "音码（拼音、注音等）"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "形码（五笔、仓颉等）"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "音形混合方案"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "更多输入方案"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "古汉语和汉语方言"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "非中文汉字输入（民族语言、西文、日韩等）"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "特殊符号、专用输入等"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "补充资料"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rime开发相关等"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rime其他资料"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "输入法软件和方案补充"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "教程、语料和算法优化等"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:32:06.357Z",
+    "original_repository": "hantang/rime-list",
+    "original_repository_sha": "42f9847a5bc4fb2d96bd6411e2448751e5b21094",
+    "enhanced_repository": "enhansome/enhansome-rime-list",
+    "enhanced_repository_description": null,
+    "title": "Awesome RIME List with stars"
+  }
+}
