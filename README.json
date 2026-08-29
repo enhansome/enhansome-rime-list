@@ -1,15 +1,25 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T22:29:43.163Z",
+    "last_updated": "2026-08-29T04:58:03.310Z",
     "original_repository_info": {
       "archived": false,
+      "description": "RIME输入法相关软件、配置、词库和输入方案汇整。",
+      "homepage": "https://hantang.github.io/rime-docs/list/",
       "id": 852100903,
       "language": "Python",
+      "license": null,
       "last_commit": "2026-08-24T10:39:00Z",
+      "open_issues": 0,
       "owner": "hantang",
       "repo": "rime-list",
-      "stars": 129
+      "stars": 129,
+      "topics": [
+        "awesome-list",
+        "ime",
+        "input-method",
+        "rime"
+      ]
     },
     "original_repository_sha": "84d654f852d08783ac34635062d2d798e48d5730",
     "enhanced_repository": "enhansome/enhansome-rime-list",
