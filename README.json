@@ -1,7 +1,48 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zispace/ciku-ime",
+              "description": "🩹 zispace/ciku-ime --",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "总数超过1万的主流输入法词库汇集（基于搜狗细胞词库、QQ、百度、华宇等解析），已过滤低质量、简短的词库。",
+                "homepage": null,
+                "id": 911093576,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-08-02T05:28:13Z",
+                "open_issues": 0,
+                "owner": "zispace",
+                "repo": "ciku-ime",
+                "stars": 7,
+                "topics": [
+                  "bdict",
+                  "lexicon",
+                  "qcel",
+                  "qpyd",
+                  "scel"
+                ]
+              },
+              "first_seen": "2026-08-31T19:10:32.004Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "教程、语料和算法优化等"
+        }
+      ],
+      "title": "补充资料"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-30T16:50:38.101Z",
+    "last_updated": "2026-08-31T19:10:32.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "RIME输入法相关软件、配置、词库和输入方案汇整。",
@@ -9,7 +50,7 @@
       "id": 852100903,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-08-30T08:52:30Z",
+      "last_commit": "2026-08-31T17:26:48Z",
       "open_issues": 0,
       "owner": "hantang",
       "repo": "rime-list",
@@ -21,7 +62,7 @@
         "rime"
       ]
     },
-    "original_repository_sha": "9d4c25250ee4bd090dc1b8f3ecb3e920da7b1640",
+    "original_repository_sha": "e135606038fc1773153d3faea71eefb1e50a0d75",
     "enhanced_repository": "enhansome/enhansome-rime-list",
     "enhanced_repository_description": null,
     "title": "Awesome RIME List with stars"
