@@ -1,6 +1,6 @@
 # Awesome RIME List with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/hantang/rime-list) ⭐ 129 | 🐛 0 | 🌐 Python | 📅 2026-08-31
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/hantang/rime-list) ⭐ 130 | 🐛 0 | 🌐 Python | 📅 2026-09-03
 ![GitHub Commit Badge](https://img.shields.io/github/last-commit/hantang/rime-list.svg)
 
 ## 说明
@@ -6846,4 +6846,4 @@ RIME（Rime Input Method Engine，中州韵输入法引擎）相关资料汇整�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

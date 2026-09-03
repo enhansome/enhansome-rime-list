@@ -42,7 +42,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T16:42:47.091Z",
+    "last_updated": "2026-09-03T16:34:04.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "RIME输入法相关软件、配置、词库和输入方案汇整。",
@@ -50,11 +50,11 @@
       "id": 852100903,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-08-31T17:26:48Z",
+      "last_commit": "2026-09-03T12:44:23Z",
       "open_issues": 0,
       "owner": "hantang",
       "repo": "rime-list",
-      "stars": 129,
+      "stars": 130,
       "topics": [
         "awesome-list",
         "ime",
@@ -62,7 +62,7 @@
         "rime"
       ]
     },
-    "original_repository_sha": "e135606038fc1773153d3faea71eefb1e50a0d75",
+    "original_repository_sha": "04265bd446babe82d43c5d09858ff64b5d03d022",
     "enhanced_repository": "enhansome/enhansome-rime-list",
     "enhanced_repository_description": null,
     "title": "Awesome RIME List with stars"
