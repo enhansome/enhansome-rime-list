@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "zispace",
                 "repo": "ciku-ime",
-                "stars": 7,
+                "stars": 8,
                 "topics": [
                   "bdict",
                   "lexicon",
@@ -42,7 +42,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:06:52.422Z",
+    "last_updated": "2026-09-15T17:09:33.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "RIME输入法相关软件、配置、词库和输入方案汇整。",
@@ -50,7 +50,7 @@
       "id": 852100903,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-14T16:13:26Z",
+      "last_commit": "2026-09-15T12:58:51Z",
       "open_issues": 0,
       "owner": "hantang",
       "repo": "rime-list",
@@ -62,7 +62,7 @@
         "rime"
       ]
     },
-    "original_repository_sha": "555701decd8e34d1a477769ad6e93e4fa8b54c94",
+    "original_repository_sha": "1916e2272e3d85b25fa42cb31e881ad3c4bf0ba9",
     "enhanced_repository": "enhansome/enhansome-rime-list",
     "enhanced_repository_description": null,
     "title": "Awesome RIME List with stars"
