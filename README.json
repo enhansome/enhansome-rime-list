@@ -18,10 +18,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-02T06:51:14Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "zispace",
                 "repo": "ciku-ime",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "bdict",
                   "lexicon",
@@ -42,7 +42,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:09:59.565Z",
+    "last_updated": "2026-09-17T17:10:09.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "RIME输入法相关软件、配置、词库和输入方案汇整。",
