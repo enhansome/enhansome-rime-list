@@ -42,7 +42,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T16:34:48.726Z",
+    "last_updated": "2026-09-19T15:58:11.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "RIME输入法相关软件、配置、词库和输入方案汇整。",
@@ -54,7 +54,7 @@
       "open_issues": 0,
       "owner": "hantang",
       "repo": "rime-list",
-      "stars": 131,
+      "stars": 132,
       "topics": [
         "awesome-list",
         "ime",
