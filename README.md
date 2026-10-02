@@ -898,7 +898,7 @@ RIME（Rime Input Method Engine，中州韵输入法引擎）相关资料汇整�
 | ![0][gh_748_stars]<br>![0][gh_748_forks]        | ![gh\_748\_commit][gh_748_commit] | [sgalal/rime-opencc-32bit-latest][gh_748]                                                 | Customize rime input schemata to use the latest OpenCC dictionaries (32-bit)                                                                                                                |
 | ![0][gh_747_stars]<br>![0][gh_747_forks]        | ![gh\_747\_commit][gh_747_commit] | [ha-pin/ime-guide][gh_747]                                                                | **Welcome to Slidev!**<br>Hapin Rime 方案使用指南<br> \<https//ha-pin.github.io/ime-guide>                                                                                                        |
 | ![0][gh_746_stars]<br>![0][gh_746_forks]        | ![gh\_746\_commit][gh_746_commit] | [amorphobia/jiandao-primer][gh_746]                                                       | **星空键道初探**<br>给初学者的键道教程<br> \<https//book.xuesong.io/jiandao-primer>                                                                                                                        |
-|                                                 | 🩹                                | ~~[zispace/ciku-ime](https://github.com/zispace/ciku-ime) ⭐ 10 \| 🐛 1 \| 📅 2026-09-02~~ | --                                                                                                                                                                                          |
+|                                                 | 🩹                                | ~~[zispace/ciku-ime](https://github.com/zispace/ciku-ime) ⭐ 10 \| 🐛 1 \| 📅 2026-10-02~~ | --                                                                                                                                                                                          |
 
 [gh_022]: https://github.com/rime/weasel
 
@@ -6896,4 +6896,4 @@ RIME（Rime Input Method Engine，中州韵输入法引擎）相关资料汇整�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
