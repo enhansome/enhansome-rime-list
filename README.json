@@ -24,6 +24,8 @@
                 "stars": 10,
                 "topics": [
                   "bdict",
+                  "ciku",
+                  "ime",
                   "lexicon",
                   "qcel",
                   "qpyd",
@@ -42,7 +44,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T18:44:32.705Z",
+    "last_updated": "2026-10-27T18:07:43.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "RIME输入法相关软件、配置、词库和输入方案汇整。",
@@ -50,7 +52,7 @@
       "id": 852100903,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-10-26T16:34:29Z",
+      "last_commit": "2026-10-27T07:37:57Z",
       "open_issues": 0,
       "owner": "hantang",
       "repo": "rime-list",
@@ -62,7 +64,7 @@
         "rime"
       ]
     },
-    "original_repository_sha": "375ceb392af22067581c1653853015fbd16b3a23",
+    "original_repository_sha": "d81ca1f437b7dcb81d884c986140ca304f9f3c36",
     "enhanced_repository": "enhansome/enhansome-rime-list",
     "enhanced_repository_description": null,
     "title": "Awesome RIME List with stars"
