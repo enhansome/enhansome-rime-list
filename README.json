@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "zispace",
                 "repo": "ciku-ime",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "bdict",
                   "ciku",
@@ -44,7 +44,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:07:43.893Z",
+    "last_updated": "2026-10-28T18:24:11.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "RIME输入法相关软件、配置、词库和输入方案汇整。",
