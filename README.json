@@ -21,14 +21,12 @@
                 "open_issues": 0,
                 "owner": "zispace",
                 "repo": "ciku-ime-sogou",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
-                  "bdict",
+                  "chinese-words",
                   "ciku",
                   "ime",
-                  "lexicon",
-                  "qcel",
-                  "qpyd",
+                  "lexicons",
                   "scel"
                 ]
               },
@@ -44,7 +42,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T19:39:46.187Z",
+    "last_updated": "2026-11-04T19:55:27.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "RIME输入法相关软件、配置、词库和输入方案汇整。",
@@ -52,7 +50,7 @@
       "id": 852100903,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-03T12:51:01Z",
+      "last_commit": "2026-11-04T02:21:57Z",
       "open_issues": 0,
       "owner": "hantang",
       "repo": "rime-list",
@@ -64,7 +62,7 @@
         "rime"
       ]
     },
-    "original_repository_sha": "e37a2c89cb949353404e1bfd964fca65289d5bd1",
+    "original_repository_sha": "24b525320deefa4d88966a6785dced8ef1db1877",
     "enhanced_repository": "enhansome/enhansome-rime-list",
     "enhanced_repository_description": null,
     "title": "Awesome RIME List with stars"
